@@ -1,4 +1,4 @@
-indicator,publich_states,year,WHO_region,country,residence_area_type,display_value,numeric
+indicator,publich_states,year,WHO_region,country,residence_area_type,percentage,numeric
 Population using safely managed drinking-water services (%),Published,2000,Europe,Albania,Total,49,49.29324
 Population using safely managed drinking-water services (%),Published,2001,Europe,Albania,Total,49,49.21738
 Population using safely managed drinking-water services (%),Published,2002,Europe,Albania,Total,49,49.08154
